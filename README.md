@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github 😄
 
 Hello, I'm Hai Ling. 
 
@@ -6,11 +6,11 @@ I previously worked as an auditor but not anymore ! After months of debating wha
 
 It all started with DataCamp, which was introduced to me by my friend 2 years ago. There was where I discovered to power of Python and SQL. Despite working with data everyday in my previous job, I used Excel and Excel has its limitations which could be easily overcame by using Python or SQL.
 
-And here I am now, writing this on github ;)
+And here I am now, writing this on github 🤓
 
-If you have a similar experience, high 5! 
+If you have a similar experience, high 5 ✋
 
-Long story short:
+### Long story short:
 
 🔭 I’m currently working on a SQL project for Code First Girls (CFG)
 
