@@ -1,4 +1,4 @@
-### Welcome to my Github 😄
+### Intro 👩‍💻
 
 Hello, I'm Hai Ling. 
 
