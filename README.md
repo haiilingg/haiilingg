@@ -20,8 +20,7 @@ If you have a similar experience, high 5 ✋
 
 😄 Pronouns: she/her
 
-⚡ Fun fact: I created my Github account 4 months ago but I only started using it today (24 Aug 2023)
-
+⚡ Fun fact: I created my Github account in April but I only started using it today (August)
 
 <!--
 **haiilingg/haiilingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
