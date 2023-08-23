@@ -16,7 +16,7 @@ Long story short:
 
 🌱 I’m currently learning Python & SQL
 
-📫 How to reach me: click on my LinkedIn profile
+📫 How to reach me: https://www.linkedin.com/in/tanhailing/
 
 😄 Pronouns: she/her
 
