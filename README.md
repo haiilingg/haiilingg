@@ -12,7 +12,7 @@ If you have a similar experience, high 5!
 
 Long story short:
 
-🔭 I’m currently working on an SQL project for Code First Girls (CFG)
+🔭 I’m currently working on a SQL project for Code First Girls (CFG)
 
 🌱 I’m currently learning Python & SQL
 
