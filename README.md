@@ -19,7 +19,8 @@ If you have a similar experience, high 5 ✋
 😄 Pronouns: she/her
 
 ⚡ Fun fact: I created my Github account in April but I only started using it today (August)
-⚡ Fun fact 2: I'm a huge Foodie so if you also love food like me, let's connect and be friends! 
+
+⚡ Fun fact 2: I'm a huge Foodie so if you also love food like me, let's connect and be friends! I post food ocassioanlly over here: https://www.instagram.com/hl.eatss/
 
 <!--
 **haiilingg/haiilingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
