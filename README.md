@@ -6,19 +6,17 @@ I previously worked as an auditor but not anymore ! After months of debating wha
 
 It all started with DataCamp, which was introduced to me by my friend 2 years ago. There was where I discovered to power of Python and SQL. Despite working with data everyday in my previous job, I used Excel and Excel has its limitations which could be easily overcame by using Python or SQL.
 
-And here I am now, writing this on github 🤓
+Instead of abandoning my previous experience, I'm looking for roles that allow me to combine both my knowledge in finance with what I've learnt for the past few months in data analytics/ data visualisation. 2 is better than 1 righttt!
 
-If you have a similar experience, high 5 ✋
+Feel free to have a look at the work I've done and I'm more than happy to chat further :)
 
 ### Long story short:
 
 🌱 I’m currently interning as a Data Analyst Trainee at Digitas Malaysia, analysing web data (eg how well the websites are performing)
 
-📫 How to reach me: https://www.linkedin.com/in/tanhailing/
+📫 How to reach me: https://www.linkedin.com/in/tanhailing/ or just email me at haiilingg99@gmail.com
 
-😄 Pronouns: she/her
-
-⚡ Fun fact: I created my Github account in April but I only started using it today (August)
+⚡ Fun fact: I created my Github account in April but I only started using it in August
 
 ⚡ Fun fact 2: I'm a huge Foodie so if you also love food like me, let's connect and be friends! I post food ocassionally over here: https://www.instagram.com/hl.eatss/
 
