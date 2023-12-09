@@ -9,12 +9,12 @@ Instead of abandoning my previous experience, I'm looking for roles that allow m
 
 Feel free to have a look at the work I've done, and I'm more than happy to chat further :)
 
-🛠️ My Skills
+# 🛠️ My Skills
 - Language: SQL (MySQL),Python
 - Visualization: Power BI, Looker Studio
 - Others: Microsoft Excel, Google Sheets
 
-📫 How to reach me:
+# 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/tanhailing/) or [email](haiilingg99@gmail.com)
 
 ⚡ Fun fact: I created my Github account in April but I only started using it in August
