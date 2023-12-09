@@ -10,7 +10,7 @@
 - Visualization: Power BI, Looker Studio
 - Others: Microsoft Excel, Google Sheets, Google Analytics, Canva, Slack, SAP
 
-#### Why I transitioned into Data
+### Why I transitioned into Data
 When I was about to quit my previous job,I had a really hard time deciding what I wanted to pursue with UNTIL I came to the conclusion that DATA is where my interest lies.
 
 It all started with DataCamp, introduced to me by my friend 2 years ago. That's where I discovered the power of Python and SQL. Despite working with data every day in my previous job, I only used Excel, specializing in financial data analysis and auditing.
