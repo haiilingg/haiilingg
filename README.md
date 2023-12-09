@@ -9,6 +9,8 @@ Instead of abandoning my previous experience, I'm seeking roles that allow me to
 
 Feel free to have a look at the work I've done, and I'm more than happy to chat further :)
 
+### Portfolio link 
+
 ### 🛠️ My Skills
 - Language: SQL (MySQL),Python
 - Visualization: Power BI, Looker Studio
