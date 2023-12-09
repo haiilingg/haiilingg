@@ -9,17 +9,17 @@ Instead of abandoning my previous experience, I'm looking for roles that allow m
 
 Feel free to have a look at the work I've done, and I'm more than happy to chat further :)
 
-# 🛠️ My Skills
+### 🛠️ My Skills
 - Language: SQL (MySQL),Python
 - Visualization: Power BI, Looker Studio
 - Others: Microsoft Excel, Google Sheets
 
-# 📫 How to reach me:
+### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/tanhailing/) or [email](haiilingg99@gmail.com)
 
-⚡ Fun fact: I created my Github account in April but I only started using it in August
-
-⚡ Fun fact 2: I'm a huge Foodie so if you also love food like me, let's connect and be friends! I post food ocassionally over [here](https://www.instagram.com/hl.eatss/)
+### ⚡ Fun fact
+- I created my Github account in April but I only started using it in August
+- I'm a huge Foodie so if you also love food like me, let's connect and be friends! I post food ocassionally over [here](https://www.instagram.com/hl.eatss/)
 
 <!--
 **haiilingg/haiilingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
