@@ -1,12 +1,8 @@
 ### About Me 👩‍💻
 - Name: Hai Ling (yes, it's together)
-
 - Current Occupation: Data Analyst Trainee
-
 - Previous Occupation: Auditor at KPMG
-
 - Based in: Kuala Lumpur, Malaysia
-
 - Hobby: Cooking!
 
 ### 🛠️ My Skills
