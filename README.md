@@ -13,7 +13,7 @@ Feel free to have a look at the work I've done, and I'm more than happy to chat 
 
 #### Python
 | Project Name| Repo Link | Notes|
-| --- | --- | --- |
+| --- | ---- | -- |
 | EDAMAM Recipe Search API | [Click here](https://github.com/haiilingg/CFG-Python-Project) | Created for Code First Girl's Kickstarter Course|
 | Machine Learning | [Click here](https://github.com/haiilingg/Machine-Learning-with-Python) | Classification, Clustering, Regression Algorithms and Time Series Forecast
 | Data Analytics Practice | [Click here](https://github.com/haiilingg/CFG-Python-Project) | Numpy, Matplotlib, Seaborn, Pandas
