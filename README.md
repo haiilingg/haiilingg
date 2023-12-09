@@ -3,9 +3,9 @@ Hi, I'm Hai Ling.
 
 I previously worked as an auditor at one of the Big 4 firms. After months of debating what I wanted to do before quitting my job, I came to the conclusion that DATA is where my interest lies.
 
-It all started with DataCamp, which was introduced to me by my friend 2 years ago. That's where I discovered the power of Python and SQL. Despite working with data every day in my previous job, I used Excel(and nothing else) but Excel has its limitations that could be easily overcome by using Python or SQL.
+It all started with DataCamp, introduced to me by my friend 2 years ago. That's where I discovered the power of Python and SQL. Despite working with data every day in my previous job, I only used Excel, specializing in financial data analysis and auditing.
 
-Instead of abandoning my previous experience, I'm looking for roles that allow me to combine both my knowledge in finance with what I've learned for the past few months in data analytics/data visualization. Two is better than one, right?
+Instead of abandoning my previous experience, I'm seeking roles that allow me to combine my finance knowledge with what I've learned in data analytics/data visualization over the past few months. Two is better than one, right?
 
 Feel free to have a look at the work I've done, and I'm more than happy to chat further :)
 
