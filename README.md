@@ -1,7 +1,7 @@
 ### About Me 👩‍💻
 Name: Hai Ling (yes, it's together)
 
-Occupation: Data Analyst Trainee
+Current Occupation: Data Analyst Trainee
 
 Previous Occupation: Auditor at KPMG
 
