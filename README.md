@@ -9,7 +9,27 @@ Instead of abandoning my previous experience, I'm seeking roles that allow me to
 
 Feel free to have a look at the work I've done, and I'm more than happy to chat further :)
 
-### Portfolio link 
+### Navigating my Github 
+
+#### Python
+| Project Name| Repo Link | Notes|
+| --- | --- | --- |
+| EDAMAM Recipe Search API | [Click here](https://github.com/haiilingg/CFG-Python-Project) | Created for Code First Girl's Kickstarter Course|
+| Machine Learning | [Click here](https://github.com/haiilingg/Machine-Learning-with-Python) | Classification, Clustering, Regression Algorithms and Time Series Forecast
+| Data Analytics Practice | [Click here](https://github.com/haiilingg/CFG-Python-Project) | Numpy, Matplotlib, Seaborn, Pandas
+| Loan Defaulter Analysis | [Click here](https://github.com/haiilingg/EDA-project) | EDA, Data Cleaning
+| Fast Food Marketing Campaign A\B Test| [Click here](https://github.com/haiilingg/Business-Analytics-KYDP/tree/main/Python%20EDA) | EDA, Data Cleaning
+
+#### SQL
+| Project Name| Repo Link | Notes|
+| --- | --- | --- |
+| Restaurant Ordering Database | [Click here](https://github.com/haiilingg/CFG-SQL-Project) | Created for Code First Girl's Kickstarter Course|
+
+#### Data Visualisation
+| Project Name| Repo Link | Tool Used|
+| --- | --- | --- |
+| Spotify Dataset Challenge | [Click here](https://github.com/haiilingg/Spotify-Dataset-Challenge) | Google Looker Studio|
+| Superstore Analysis | [Click here](https://github.com/haiilingg/Business-Analytics-KYDP/tree/main/Data%20Visualisation) | Power BI|
 
 ### 🛠️ My Skills
 - Language: SQL (MySQL),Python
