@@ -49,7 +49,7 @@ Feel free to have a look at the work I've done, and I'm more than happy to chat 
 [LinkedIn](https://www.linkedin.com/in/tanhailing/) or [email](haiilingg99@gmail.com)
 
 ### ⚡ Fun fact
-- I created my Github account in April but I only started using it in August
+- I created my Github account in April'23 but I only started using it in August'23 
 - I'm a huge Foodie so if you also love food like me, let's connect and be friends! I post food ocassionally over [here](https://www.instagram.com/hl.eatss/)
 
 <!--
