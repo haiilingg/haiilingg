@@ -1,7 +1,14 @@
-### About Me 👩‍💻
-Hi, I'm Hai Ling.
+### About Me (Summary) 👩‍💻
+Name: Hai Ling (yes, it's together)
 
-I previously worked as an auditor at one of the Big 4 firms. After months of debating what I wanted to do before quitting my job, I came to the conclusion that DATA is where my interest lies.
+Occupation: Data Analyst Trainee
+
+Previous Occupation: Auditor at KPMG
+
+Based in: Kuala Lumpur, Malaysia
+
+#### Why I transitioned into Data
+When I was about to quit my previous job,I had a really hard time deciding what I wanted to pursue with UNTIL I came to the conclusion that DATA is where my interest lies.
 
 It all started with DataCamp, introduced to me by my friend 2 years ago. That's where I discovered the power of Python and SQL. Despite working with data every day in my previous job, I only used Excel, specializing in financial data analysis and auditing.
 
