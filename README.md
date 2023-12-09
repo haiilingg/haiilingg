@@ -4,7 +4,7 @@
 3. [Why I transitioned into Data](https://github.com/haiilingg/haiilingg/blob/main/README.md#-why-i-transitioned-into-data)
 4. [Navigating my Github ](https://github.com/haiilingg/haiilingg/blob/main/README.md#%EF%B8%8F-navigating-my-github)
 5. [How to reach me](https://github.com/haiilingg/haiilingg/blob/main/README.md#-how-to-reach-me)
-6. [Fun facts](https://github.com/haiilingg/haiilingg/blob/main/README.md#-fun-fact)
+6. [Fun facts](https://github.com/haiilingg/haiilingg/blob/main/README.md#-fun-facts)
 
 ### 👩🏻 About Me 
 - Name: Hai Ling (yes, it's together)
