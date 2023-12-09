@@ -1,3 +1,6 @@
+## Table of Contents
+
+
 ### 👩🏻 About Me 
 - Name: Hai Ling (yes, it's together)
 - Current Occupation: Data Analyst Trainee
