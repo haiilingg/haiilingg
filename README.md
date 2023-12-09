@@ -1,5 +1,10 @@
 ## Table of Contents
-
+1. [About Me](https://github.com/haiilingg/haiilingg/blob/main/README.md#-about-me)
+2. [My Skills](https://github.com/haiilingg/haiilingg/blob/main/README.md#%EF%B8%8F-my-skills)
+3. [Why I transitioned into Data](https://github.com/haiilingg/haiilingg/blob/main/README.md#-why-i-transitioned-into-data)
+4. [Navigating my Github ](https://github.com/haiilingg/haiilingg/blob/main/README.md#%EF%B8%8F-navigating-my-github)
+5. [How to reach me](https://github.com/haiilingg/haiilingg/blob/main/README.md#-how-to-reach-me)
+6. [Fun facts](https://github.com/haiilingg/haiilingg/blob/main/README.md#-fun-fact)
 
 ### 👩🏻 About Me 
 - Name: Hai Ling (yes, it's together)
@@ -44,10 +49,10 @@ Feel free to have a look at the work I've done, and I'm more than happy to chat 
 | --- | --- | --- |
 | Restaurant Ordering Database | [Click here](https://github.com/haiilingg/CFG-SQL-Project) | Created for Code First Girl's Kickstarter Course|
 
-### 📫 How to reach me:
+### 📫 How to reach me
 [LinkedIn](https://www.linkedin.com/in/tanhailing/) or [email](haiilingg99@gmail.com)
 
-### 😌 Fun fact
+### 😌 Fun facts
 - I created my Github account in April'23 but I only started using it in August'23 
 - I'm a huge Foodie so if you also love food like me, let's connect and be friends! I post food ocassionally over [here](https://www.instagram.com/hl.eatss/)
 
