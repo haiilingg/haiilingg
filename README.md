@@ -1,16 +1,16 @@
-### About Me 👩‍💻
+### 👩🏻 About Me 
 - Name: Hai Ling (yes, it's together)
 - Current Occupation: Data Analyst Trainee
 - Previous Occupation: Auditor at KPMG
 - Based in: Kuala Lumpur, Malaysia
-- Hobby: Cooking!
+- Hobby: Cooking 👩🏼‍🍳
 
 ### 🛠️ My Skills
 - Language: SQL (MySQL),Python
 - Visualization: Power BI, Looker Studio
 - Others: Microsoft Excel, Google Sheets, Google Analytics, Canva, Slack, SAP
 
-### Why I transitioned into Data
+### ❓ Why I transitioned into Data
 When I was about to quit my previous job,I had a really hard time deciding what I wanted to pursue with UNTIL I came to the conclusion that DATA is where my interest lies.
 
 It all started with DataCamp, introduced to me by my friend 2 years ago. That's where I discovered the power of Python and SQL. Despite working with data every day in my previous job, I only used Excel, specializing in financial data analysis and auditing.
@@ -19,12 +19,12 @@ Instead of abandoning my previous experience, I'm seeking roles that allow me to
 
 Feel free to have a look at the work I've done, and I'm more than happy to chat further :)
 
-### Navigating my Github 
+### 🗺️ Navigating my Github 
 
 #### Python
 | Project Name| Repo Link | Notes|
 | --- | ---- | -- |
-| Fast Food Marketing Campaign A\B Test| [Click here](https://github.com/haiilingg/Business-Analytics-KYDP/tree/main/Python%20EDA) | EDA, Data Cleaning
+| Fast Food Marketing Campaign A/B Test| [Click here](https://github.com/haiilingg/Business-Analytics-KYDP/tree/main/Python%20EDA) | EDA, Data Cleaning
 | Data Analytics Practice | [Click here](https://github.com/haiilingg/Data-Analytics-with-Python) | Numpy, Matplotlib, Seaborn, Pandas
 | Machine Learning | [Click here](https://github.com/haiilingg/Machine-Learning-with-Python) | Classification, Clustering, Regression Algorithms and Time Series Forecast
 | EDAMAM Recipe Search API | [Click here](https://github.com/haiilingg/CFG-Python-Project) | Created for Code First Girl's Kickstarter Course|
@@ -44,7 +44,7 @@ Feel free to have a look at the work I've done, and I'm more than happy to chat 
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/tanhailing/) or [email](haiilingg99@gmail.com)
 
-### ⚡ Fun fact
+### 😌 Fun fact
 - I created my Github account in April'23 but I only started using it in August'23 
 - I'm a huge Foodie so if you also love food like me, let's connect and be friends! I post food ocassionally over [here](https://www.instagram.com/hl.eatss/)
 
