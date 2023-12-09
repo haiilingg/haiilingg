@@ -1,4 +1,4 @@
-### About Me (Summary) 👩‍💻
+### About Me 👩‍💻
 Name: Hai Ling (yes, it's together)
 
 Occupation: Data Analyst Trainee
@@ -6,6 +6,8 @@ Occupation: Data Analyst Trainee
 Previous Occupation: Auditor at KPMG
 
 Based in: Kuala Lumpur, Malaysia
+
+Hobby: Cooking!
 
 #### Why I transitioned into Data
 When I was about to quit my previous job,I had a really hard time deciding what I wanted to pursue with UNTIL I came to the conclusion that DATA is where my interest lies.
