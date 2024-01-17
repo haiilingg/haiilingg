@@ -14,7 +14,7 @@
 - Hobby: Cooking 👩🏼‍🍳
 
 ## 🛠️ My Skills
-- Language: SQL (MySQL),Python
+- Language: SQL (MySQL, Big Query),Python
 - Visualization: Power BI, Looker Studio
 - Others: Microsoft Excel, Google Sheets, Google Analytics, Canva, Slack, SAP
 
