@@ -47,7 +47,7 @@ Feel free to have a look at the work I've done, and I'm more than happy to chat 
 #### SQL
 | Project Name| Repo Link | Notes|
 | --- | --- | --- |
-| 8-Week-SQL-Challenge |[Click here](https://github.com/haiilingg/-8-Week-SQL-Challenge)|Completed for Week 1,2,4|
+| 8-Week-SQL-Challenge |[Click here](https://github.com/haiilingg/-8-Week-SQL-Challenge)|Completed for Week 1,2,3,4,7|
 | Restaurant Ordering Database | [Click here](https://github.com/haiilingg/CFG-SQL-Project) | Created for Code First Girl's Kickstarter Course|
 
 ### 📫 How to reach me
