@@ -56,6 +56,7 @@ Feel free to have a look at the work I've done, and I'm more than happy to chat 
 ## 😌 Fun facts
 - I'm a huge Foodie so if you also love food like me, let's connect and be friends! I post food ocassionally over [here](https://www.instagram.com/hl.eatss/)
 - I also enjoy going on walks (feel the nature breeze)
+- My biggest dream is to open a restaurant and an ice cream shop 
 
 <!--
 **haiilingg/haiilingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
